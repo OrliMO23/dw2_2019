@@ -1,0 +1,19 @@
+body{
+	background:white;
+
+}
+.central
+{
+    background:lightblue;
+}
+.Datos
+{
+	display:flex;
+	padding: 10px
+}
+p{
+	color:black;
+}
+h1{
+	color:black;
+}
